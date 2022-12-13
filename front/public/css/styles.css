@@ -22,6 +22,8 @@ body {
 .ant-btn-primary:hover {
   background-color: transparent;
   color: #f78d28; 
+  border: 1px solid #f78d28;
+
 }
 
 .ant-table {
@@ -94,7 +96,7 @@ input[type=number] {
 }
 
 .headerBread3:hover {
-  color: #FFFF;
+  color: white;
 
 }
 
@@ -102,7 +104,7 @@ input[type=number] {
   cursor: pointer;
   max-width: 300px;
   padding: 0 5px;
-  color: #FFFFFFA6;
+  color: white;
   font-size: 13px;
   white-space: nowrap;
   overflow: hidden;
@@ -113,7 +115,7 @@ input[type=number] {
   cursor: pointer;
   max-width: 200px;
   padding: 0 5px;
-  color: #FFFFFFA6;
+  color: white;
   font-size: 13px;
   white-space: nowrap;
   overflow: hidden;
@@ -123,7 +125,7 @@ input[type=number] {
 .headerBread3 {
   cursor: pointer;
   padding: 0 5px;
-  color: #FFFFFFA6;
+  color: white;
 
 }
 
@@ -453,7 +455,7 @@ input[type=number] {
 
 
 .userNavBar {
-  color: #FFFFFFA6;
+  color: white;
 }
 
 .userNavBar:hover {

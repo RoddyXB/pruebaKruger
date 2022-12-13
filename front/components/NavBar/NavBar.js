@@ -51,7 +51,7 @@ const NavBar = ({ menu, visibleMovil, updateVisible, dataUser }) => {
             <Menu
               theme="dark"
               selectable={false}
-              style={{ marginTop: 10 }}
+              style={{ marginTop: 13, backgroundColor: '#f78d28',color:'white' }}
 
             >
 

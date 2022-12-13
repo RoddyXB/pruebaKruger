@@ -62,13 +62,12 @@
       "rolId": 2
     },
     {
-      "id": 4,
-      "identification": "1310839541",
-      "name": "ELVIS",
-      "lastName": "CARDENAS",
-      "email": "elvis@gmail.es",
-      "userName": "ecardenas9541",
-      "password": "1310839541",
+      "identification": "1316332368",
+      "name": "ALEJANDRO",
+      "lastName": "CHINO",
+      "email": "abc@gmail.com",
+      "userName": "achino2368",
+      "password": "1316332368",
       "dateBirth": "",
       "address": "",
       "cellPhone": "",
@@ -76,7 +75,8 @@
       "vaccineId": "",
       "dateVaccine": "",
       "doseNumber": "",
-      "rolId": 2
+      "rolId": 2,
+      "id": 4
     }
   ],
   "vaccine": [
