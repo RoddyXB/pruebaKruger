@@ -20,4 +20,4 @@ Dirigirse tanto a la carpeta de front como de back y a continuación ejecutar el
 Dirigirse tanto a la carpeta de front como de back y a continuación ejecutar el siguiente comando:
 `npm run dev`
 
-
+## El sistema se ejecutará en http://localhost:3000/
