@@ -60,23 +60,6 @@
       "dateVaccine": "",
       "doseNumber": "",
       "rolId": 2
-    },
-    {
-      "identification": "1316332368",
-      "name": "ALEJANDRO",
-      "lastName": "CHINO",
-      "email": "abc@gmail.com",
-      "userName": "achino2368",
-      "password": "1316332368",
-      "dateBirth": "",
-      "address": "",
-      "cellPhone": "",
-      "vaccine": "",
-      "vaccineId": "",
-      "dateVaccine": "",
-      "doseNumber": "",
-      "rolId": 2,
-      "id": 4
     }
   ],
   "vaccine": [
